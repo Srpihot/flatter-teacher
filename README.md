@@ -5,5 +5,5 @@
   + 点击<kbd>F12</kbd>
   + 部分电脑<kbd>Fn</kbd>+<kbd>F12</kbd>
 + 切换到控制台（console）
-+ 复制go.js代码到控制台中
++ 复制flatter.js代码到控制台中
 + 点击回车运行
